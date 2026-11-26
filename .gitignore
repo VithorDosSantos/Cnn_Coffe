@@ -1,0 +1,20 @@
+# Dados baixados e saídas geradas pelos notebooks (ficam no Drive/Colab, não no git)
+data/
+saida_defesa/
+piloto_out/
+*.keras
+*.weights.h5
+*.h5
+*.pkl
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv*/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
