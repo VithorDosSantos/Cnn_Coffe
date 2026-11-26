@@ -10,6 +10,8 @@ Classificação de 5 sintomas em folhas de café arábica (saudável, bicho-mine
 |---|---|
 | `defesa_efficientnetb1_bracol.ipynb` | Notebook principal: arquitetura, análise e divisão dos dados (teste reservado), base congelada, análise visual preliminar e estratégias A e B |
 | `piloto_escolha_dataset.ipynb` | Piloto que comparou BRACOL, PBC e DeepWeeds para justificar a escolha do dataset |
+| `guia_arguicao.md` | Guia de estudo para a arguição e checklist do que falta depois da defesa |
+| `imagem_externa/` | Imagem da internet usada na Seção 13 (CC BY 2.5), com créditos |
 
 ## Como executar
 
